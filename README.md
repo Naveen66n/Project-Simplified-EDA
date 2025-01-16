@@ -1,0 +1,2 @@
+# simplyfied-ai-
+EDA simplyfied
