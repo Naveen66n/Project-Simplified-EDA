@@ -1,11 +1,9 @@
-Project Overview: Simplified AI
-Objective: Create a user-friendly tool that automates EDA and provides valuable insights from any uploaded dataset.
-Tech Stack: Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit (for deployment).
-Key Features:
+🤖 Unlocking the Power of Data Science 🤖
 
-Upload dataset (CSV/Excel files).
-Automated summary of the dataset.
-Identification of outliers.
-Visualizations (correlation heatmap, distribution plots, pair plots, etc.).
-Missing value analysis and handling.
-Suggestions for feature engineering.
+Did you know that 80% of a Data Scientist's time is spent on preparing and cleaning data, not building models?
+
+Surprising, right? But here’s the kicker — this foundational work is what truly drives impactful insights!
+
+Recently, I explored EDA (Exploratory Data Analysis), and it was an eye-opening experience. Here are some key takeaways:
+✅ The importance of feature engineering and how it enhances model accuracy.
+✅ Small improvements in data preprocessing can lead to significant performance gains.
