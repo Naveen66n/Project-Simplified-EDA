@@ -1,5 +1,3 @@
-🤖 Unlocking the Power of Data Science 🤖
-
 Did you know that 80% of a Data Scientist's time is spent on preparing and cleaning data, not building models?
 
 Surprising, right? But here’s the kicker — this foundational work is what truly drives impactful insights!
